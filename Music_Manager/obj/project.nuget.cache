@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhKpJYQOYvA=",
+  "success": true,
+  "projectFilePath": "D:\\CODE\\VS\\MusicOrganizer\\MusicOrganizer\\Music_Manager\\MusicOrganizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Srafil\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
